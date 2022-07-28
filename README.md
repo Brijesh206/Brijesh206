@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijesh206" alt="brijesh206" /></a> </p>
 
-- 🔭 I’m currently working on **Blood Donation Website**
+<!-- - 🔭 I’m currently working on **Blood Donation Website** -->
 
 - 🌱 I’m currently learning **Web Development and Android App Development**
 
