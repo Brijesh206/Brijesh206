@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on **Blood Donation Website** -->
 
-- 🌱 I’m currently learning **Web Development and Android App Development**
+- 🌱 I’m learning **Web Development and Android App Development**
 
 - 📫 How to reach me **brijeshbhesaniya12@gmail.com**
 
