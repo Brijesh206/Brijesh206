@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijesh206&label=Profile%20views&color=0e75b6&style=flat" alt="brijesh206" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijesh206" alt="Get GitHub Start Trophies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijesh206" alt="Get GitHub Profile Trophies" /></a> </p>
 
 <!-- - 🔭 I’m currently working on **Blood Donation Website** -->
 
