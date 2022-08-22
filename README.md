@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brijesh Bhesaniya</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brijesh206&label=Profile%20views&color=0e75b6&style=flat" alt="brijesh206" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brijesh206&label=Profile%20views&color=0e75b6&style=flat" alt="Get GitHub Start Trophies" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijesh206" alt="brijesh206" /></a> </p>
 
