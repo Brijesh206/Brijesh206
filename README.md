@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brijesh206" alt="Get GitHub Profile Trophies" /></a> </p>
 
 
-- 🌱 I’m learning **Web Development and Android App Development**
+- 🌱 I’m learning **Web Development**
 
 - 📫 How to reach me **brijeshbhesaniya12@gmail.com**
 
-- ⚡ Fun fact **Elon Musk is father of 10 children!!!!**
+- ⚡ Fun fact **Elon Musk is father of 11 children!!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
